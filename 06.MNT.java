@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Macro 
+class MNT
 {
 static int mntc,mdtc;
 public static void main(String args[])

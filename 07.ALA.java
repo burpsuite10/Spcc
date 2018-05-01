@@ -1,5 +1,3 @@
-//ALA
-
 import java.util.*;
 class ALA
 {
@@ -49,12 +47,3 @@ class ALA
 	
 	
 }
-/*
-OUTPUT:
-student@student-HP-Compaq-4000-Pro-SFF-PC:~$ cd Desktop
-student@student-HP-Compaq-4000-Pro-SFF-PC:~/Desktop$ javac ALA.java
-student@student-HP-Compaq-4000-Pro-SFF-PC:~/Desktop$ java ALA
-Index		Argument
-#1		&arg1
-#2		&arg2
-*/

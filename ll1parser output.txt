@@ -1,0 +1,32 @@
+/*
+OUTPUT 
+Enter the no. of productions: 3
+
+Enter the productions:
+S-aAa
+A-bBb
+B-c
+
+First-Follow Table:
+
+        NonT    First   Follow
+        S       a       $
+        A       b       a
+        B       c       b
+
+Enter input string: abcba
+
+The Parsing Table:
+
+        Stack           Input
+        S$              abcba$
+        aAa$            abcba$
+        Aa$             bcba$
+        bBba$           bcba$
+        Bba$            cba$
+        cba$            cba$
+        ba$             ba$
+        a$              a$
+        $               $
+String is accepted by the Grammar
+*/

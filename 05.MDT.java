@@ -1,4 +1,3 @@
-// MDT
 import java.util.*;
 class MDT{
 	public static void main(String args[])
@@ -50,25 +49,4 @@ class MDT{
 	
 	
 }
-/*
-OUTPUT:
-C:\Users\student\Desktop>javac MDT.java
-
-C:\Users\student\Desktop>java MDT
-Index           Card
-0               A 1,DATA
-1               A 2,DATA
-2               A 3,DATA
-3               A 4,DATA
-4               MEND
-
-C:\Users\student\Desktop>
-*/
-
-
-
-
-
-
-
-
+}
